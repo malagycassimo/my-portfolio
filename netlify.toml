@@ -1,0 +1,4 @@
+[build]
+  # Define a variável de ambiente NODE_VERSION para 22.x
+  environment = { NODE_VERSION = "22.x" }
+  
