@@ -163,7 +163,7 @@ const Index = () => {
                 </span>
               </div>
               <h1 className="text-5xl md:text-6xl font-bold text-foreground leading-tight">
-                Malagy Casimo
+                Malagy Cassimo
               </h1>
               <h2 className="text-2xl md:text-3xl font-semibold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
                 Entusiasta de Inovação Tecnológica
